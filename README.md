@@ -7,8 +7,6 @@
 </h1>
 
 
-- 🔭 I’m currently working on [Denwa Petto](https://github.com/nguyenmx/DenwaPetto)
-
 - 👨‍💻 Let's connect [https://www.linkedin.com/in/maryxnguyen/](https://www.linkedin.com/in/maryxnguyen/)
 
 - 📫 How to reach me **mary.nguyenwa18@gmail.com**
