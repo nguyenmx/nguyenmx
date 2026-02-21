@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-   Computer Science & Biology Graduate from PLU
+   Univeriverity of Washington Master of Applied Bioengineering Student 
 </h1>
 
 
