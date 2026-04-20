@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-   UW Master of Applied Bioengineering Student
+   UW Master of Applied Bioengineering | Software Engineer
 </h1>
 
 
